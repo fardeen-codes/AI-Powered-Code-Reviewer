@@ -1,30 +1,98 @@
-# Project Title
+# 🧠 AI-Powered Code Reviewer
 
-## Description
-A brief overview of what the project does.
+A smart and intuitive tool that leverages the Gemini API to automatically review and provide feedback on your code. Whether you're a beginner or a pro, this app helps you write better code faster by catching bugs, suggesting improvements, and following best practices.
 
-## Features
-- Feature 1
-- Feature 2
-- Feature 3
+---
 
-## Installation
-1. Clone the repository: `git clone https://github.com/KhushalYadav535/AI-Code-Reviewer.git`
-2. Navigate to the project directory.
-3. Install dependencies (if applicable).
+## 🚀 Features
 
-## Usage
-Instructions on how to use the application.
+* ✅ Automated code reviews using AI
+* 💡 Intelligent suggestions for improvements and optimizations
+* 🢾 Support for multiple programming languages
+* 📄 Easy-to-use interface to paste or upload code
+* 📊 Summarized feedback with actionable points
 
-## API Endpoints
-- Endpoint 1: Description
-- http://localhost:3000/ai/review
-- Endpoint 2: http://localhost:3000/
+---
 
-## Contributing
-For contributions, please refer to the [GitHub Repository](https://github.com/KhushalYadav535/AI-Code-Reviewer.git).
+## 🔧 Tech Stack
 
-## License
-This project is licensed under the MIT License.
+* **Frontend**: React.js
+* **Backend**: Node.js
+* **API**: [Gemini API](https://deepmind.google/technologies/gemini/)
+* **Languages Supported**: JavaScript, Python, Java, C++, and more
+* **Other Tools**: HTML, CSS, Tailwind CSS
 
+---
 
+## ⚙️ Setup & Installation
+
+Follow these steps to run the project locally.
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/fardeen-codes/AI-Powered-Code-Reviewer.git
+cd AI-Powered-Code-Reviewer
+```
+
+### 2. Install Dependencies
+
+```bash
+npm install
+```
+
+### 3. Create `.env` File
+
+Create a `.env` file in the root directory and add your Gemini API key:
+
+```env
+GEMINI_API_KEY=your_api_key_here
+```
+
+### 4. Run the Application
+
+```bash
+npm start
+```
+
+The app will be available at `http://localhost:3000`.
+
+---
+
+## 📸 Screenshots
+
+> Add screenshots or demo GIFs of the interface here.
+
+---
+
+## 📦 API Usage
+
+This app sends the input code to the Gemini API and receives AI-generated feedback, such as:
+
+* Code quality suggestions
+* Bug detection
+* Optimization tips
+* Style guide violations
+
+---
+
+## 🛡️ License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 🙌 Acknowledgements
+
+* [Gemini API by Google DeepMind](https://deepmind.google/technologies/gemini/)
+* [React.js Documentation](https://reactjs.org/)
+* All testers and contributors
+
+---
+
+## 👨‍💼 Author
+
+**Fardeen**
+GitHub: [@fardeen-codes](https://github.com/fardeen-codes)
+
+Feel free to contribute or raise an issue if you'd like to improve this project!

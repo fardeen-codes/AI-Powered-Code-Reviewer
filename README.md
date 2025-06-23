@@ -1,4 +1,4 @@
-# 🧠 AI-Powered Code Reviewer
+#  AI-Powered Code Reviewer
 
 A smart and intuitive tool that leverages the Gemini API to automatically review and provide feedback on your code. Whether you're a beginner or a pro, this app helps you write better code faster by catching bugs, suggesting improvements, and following best practices.
 

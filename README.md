@@ -61,7 +61,7 @@ The app will be available at `http://localhost:3000`.
 
 ## 📸 Screenshots
 
-> Add screenshots or demo GIFs of the interface here.
+![Code](https://github.com/user-attachments/assets/4203b7ba-a17b-4c55-a4c2-b2009eb0c416)
 
 ---
 
